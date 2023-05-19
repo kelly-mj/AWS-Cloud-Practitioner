@@ -1,0 +1,1 @@
+- Establish connectivity between VPCs and AWS Services without exposing data to the public internet

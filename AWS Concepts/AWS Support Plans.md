@@ -1,0 +1,29 @@
+- Basic - free for all AWS customers
+	- Customer Service and Communities (whitepapers, documentation, forums)
+	- [[AWS Trusted Advisor]] - core checks only, and provisioning best practicecs guidance
+	- [[AWS Personal Health Dashboard]]
+- Developer
+	- [[AWS Trusted Advisor]] includes:
+		- Service Quota
+		- Basic Security checks
+	- Enhanced technical support
+		- Guidance during business hours
+	- Pricing: Greater of $29/month, or 3% of AWS monthly usage
+- Business
+	-  [[AWS Trusted Advisor]] includes:
+		- Full set of checks
+	- Enhanced technical support
+		- 24/7 support
+	- Production support within an hour
+	- Pricing Greater of: $100/month or 3-10% of AWS usage (depending on usage amount)
+- Enterprise
+	- [[AWS Trusted Advisor]] includes:
+			- Full set of checks
+	- Enhanced technical support
+		- 24/7 support
+	- Production support within an hour
+	- Mission-critical production support within 15 minutes
+	- Incident detection and Response for an additional charge
+	- ==You get a TAM== (Technical Account Manager)
+	- Pricing: Greater of: $15,000 or 3-10% of monthly AWS usage, depending on usage
+	- ==You get a Concierge==

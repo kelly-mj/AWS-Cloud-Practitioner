@@ -1,0 +1,1 @@
+- Service that extracts text from images using OCR

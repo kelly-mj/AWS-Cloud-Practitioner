@@ -1,0 +1,1 @@
+- Allows you to programmatically access AWS pricing data

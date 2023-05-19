@@ -1,0 +1,3 @@
+- Allows you to analyze video and images
+- Can analyze images and video stored in S3
+- You send the content to a Rekognition API, then Rekognition identifies acitvities, people, text, scenes. and objects.
